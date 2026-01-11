@@ -1,0 +1,5 @@
+# Ambiente
+.env
+
+# IDE
+.vscode/
