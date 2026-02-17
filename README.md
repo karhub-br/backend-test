@@ -164,7 +164,7 @@ Em caso de empate no `urgencyScore`, aplicar:
 
 Pode ser desenvolvido utilizando:
 
-- Node.js
+- Node.js (com TypeScript)
 - Golang
 - Frameworks e bibliotecas são livres
 
